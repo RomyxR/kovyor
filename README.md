@@ -12,8 +12,7 @@ An RVC and Demucs-based tool that helps create AI covers automatically. Only an 
 
 ## Requirements
 
-- RVC model
-- YouTube video link
+- Python 3.10.x
 
 ## Acknowledgments
 
