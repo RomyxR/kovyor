@@ -14,6 +14,30 @@ An RVC and Demucs-based tool that helps create AI covers automatically. Only an 
 
 - Python 3.10.x
 
+## Setup Instructions
+
+### Windows
+Run the following batch file to create a virtual environment and install dependencies:
+```bash
+create_venv_and_download_requirements.bat
+```
+
+Then, launch the application using:
+```bash
+kovyor.bat
+```
+
+### Linux
+Run the following shell script to set up the environment:
+```bash
+./create_venv_and_download_requirements.sh
+```
+
+Then, start the application with:
+```bash
+./kovyor.sh
+```
+
 ## Acknowledgments
 
 - [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion) - Retrieval-based Voice Conversion
