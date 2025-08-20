@@ -37,6 +37,9 @@ Then, start the application with:
 ```bash
 ./kovyor.sh
 ```
+### Аdvice
+By the way, you can omit the Index file if it doesn't exist, but the quality may be lower.
+
 
 ## Acknowledgments
 
