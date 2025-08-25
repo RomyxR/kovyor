@@ -13,6 +13,7 @@ An RVC and Demucs-based tool that helps create AI covers automatically. Only an 
 ## Requirements
 
 - Python 3.10.x
+- FFmpeg
 
 ## Setup Instructions
 
