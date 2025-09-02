@@ -16,7 +16,7 @@ An RVC and Demucs-based tool that helps create AI covers automatically. Only an 
 - Python 3.10.x
 - FFmpeg
 
-## Setup Instructions
+## Quick Start
 
 ### Windows
 Run the following batch file to create a virtual environment and install dependencies:
