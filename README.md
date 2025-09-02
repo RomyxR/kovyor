@@ -1,4 +1,5 @@
 # Kovyor
+[Russian](README_RU.md)
 
 An RVC and Demucs-based tool that helps create AI covers automatically. Only an RVC model and a YouTube video link are needed.
 
