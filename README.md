@@ -13,8 +13,8 @@ An RVC and Demucs-based tool that helps create AI covers automatically. Only an 
 
 ## Requirements
 
-- Python 3.10.x
-- FFmpeg
+- [Python 3.10.x](https://www.python.org/downloads/release/python-3110/)
+- [FFmpeg](https://ffmpeg.org/download.html)
 
 ## Quick Start
 
@@ -39,8 +39,8 @@ Then, start the application with:
 ```bash
 ./kovyor.sh
 ```
-### Аdvice
-By the way, you can omit the Index file if it doesn't exist, but the quality may be lower.
+> [!TIP]
+> By the way, you can omit the Index file if it doesn't exist, but the quality may be lower.
 
 
 ## Acknowledgments
